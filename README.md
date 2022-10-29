@@ -5,6 +5,7 @@ Spawn and manage worker threads easily
 ## Features
 
 - Easy way to spawn and close worker threads in NodeJS
+- Emit and listen for named events
 - Named threads
 - Wrapper around node:worker_threads package
 - Small
