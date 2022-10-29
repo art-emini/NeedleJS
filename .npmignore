@@ -8,3 +8,4 @@ test
 .prettierrc
 tsconfig.json
 yarn.lock
+release
