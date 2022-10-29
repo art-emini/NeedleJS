@@ -1,0 +1,10 @@
+docs
+scripts
+src
+test
+.eslintrc.json
+.gitignore
+.prettierignore
+.prettierrc
+tsconfig.json
+yarn.lock
