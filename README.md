@@ -24,7 +24,7 @@ Spawn and manage worker threads easily
 
 ### NPM
 
-1. Run `npm install needlejs` or if using yarn `yarn add needlejs`.
+1. Run `npm install ksplat@needlejs` or if using yarn `yarn add @ksplat/needlejs`.
 2. Import or require NeedleJS.
 3. Read the [docs](https://github.com/ksplatdev/DuckEngine/wiki).
 
