@@ -12,7 +12,8 @@
     "format": "npx prettier --config .prettierrc --write \"src/**/*.ts\"",
     "format:watch": "npx onchange \"src/**/*.ts\" \"*.json\" \"*.md\" \"test/**/*.ts\" -- prettier --write --ignore-unknown {{changed}}",
     "lint": "npx eslint -c .eslintrc.json src/",
-    "lint:watch": "npx onchange \"src/**/*.ts\"  -- eslint -c .eslintrc.json --fix {{changed}}"
+    "lint:watch": "npx onchange \"src/**/*.ts\"  -- eslint -c .eslintrc.json --fix {{changed}}",
+    "checkout": "bash scripts/checkout.sh"
   },
   "devDependencies": {
     "@types/node": "^16.11.9",
