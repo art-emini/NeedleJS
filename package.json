@@ -1,5 +1,5 @@
 {
-  "name": "needlejs",
+  "name": "@ksplat/needlejs",
   "version": "1.0.0-beta",
   "description": "NeedleJS - Spawn and manage worker threads easily",
   "main": "dist/index.js",
