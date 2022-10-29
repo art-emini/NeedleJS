@@ -22,6 +22,9 @@ export default class ThreadManager {
 
     if (thread) {
       thread.close(exit);
+      return true;
     }
+
+    return false;
   }
 }
